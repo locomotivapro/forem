@@ -20,7 +20,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'kaminari', '~> 0.15.0'
   s.add_development_dependency 'timecop', '~> 0.6.1'
 
-  s.add_dependency 'rails', '>= 4.0.3', '<= 4.1.6'
+  s.add_dependency 'rails', '>= 4.2', '<= 4.1.6'
   s.add_dependency 'simple_form'
   s.add_dependency 'cancan', '1.6.10'
   s.add_dependency 'sanitize', '2.0.6'
